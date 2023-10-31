@@ -3,6 +3,7 @@ The following submissons can be found in the following areas
 
 basicStats/SetOperations
 -Set Theory: Union Intersection Compliment
+
 basicStats/StatsFormulas
 -Binomial
 -Geometric
@@ -13,6 +14,7 @@ basicStats/StatsFormulas
 -Permutations 
 -Combinations
 -Factorial (Use Big Integer)
+
 basicStats/StatsLibrary
 -Mean Median Mode
 -Standard Deviation / Variance
