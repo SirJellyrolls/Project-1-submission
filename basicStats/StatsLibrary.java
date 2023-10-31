@@ -62,6 +62,15 @@ public class StatsLibrary {
 		}
 		return finalNum;
 	}
+	public double variance(ArrayList<Double> userIn){
+		double avg=findMean(userIn);
+		double sum=0;
+		for(Double num:userIn){
+			sum=sum+(Math.abs(num-avg));
+		}
+		double finalRes=sum/userIn.size();
+		return finalRes;
+	}
 
 	// standard ddeviation
 	public double standDev(ArrayList<Double> userIn) {
