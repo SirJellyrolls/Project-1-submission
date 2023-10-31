@@ -40,7 +40,9 @@ Hand:
 
 -Hands
 
-Note:There is no github paper becuase you said if we already did the paper we don't need to write it again, however i did include a screen shot of me working with someone elses repo
+Note:There is no github paper becuase you said if we already did the paper we don't need to write it again, however here is a link to another github I that I have made changes to
+-https://github.com/Frankie199922/Soft-Eng-Client-Project 
+Note: I belive that I was suppose choose someone from class to commit to however when it comes to the overall point of proving that I know how to work github I think that link does I know how to commit,push, and copy and repo at the least
 
 About Extra Credit Attempt:
 For an extra credit attempt added a method to to the CarCSV assignment section where excel launches after writing all files for the assignment. 
