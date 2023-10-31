@@ -44,6 +44,8 @@ Note:There is no github paper becuase you said if we already did the paper we do
 -https://github.com/Frankie199922/Soft-Eng-Client-Project 
 Note: I belive that I was suppose choose someone from class to commit to however when it comes to the overall point of proving that I know how to work github I think that link does I know how to commit,push, and copy and repo at the least
 
+Another Note:If commit times make it look like I did everything in a few hours it's becuase I have one repo for all my fall classes and I just sperated the project 1 portion for this submission when I was mostly done.
+
 About Extra Credit Attempt:
 For an extra credit attempt added a method to to the CarCSV assignment section where excel launches after writing all files for the assignment. 
 The way this method works is by using java's Runtime class. The runtime is the program used in order to run java program on an actual computer. 
