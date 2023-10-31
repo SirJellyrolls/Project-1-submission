@@ -5,6 +5,25 @@ import java.math.BigInteger;
 import java.math.RoundingMode;
 
 public class StatsFormulas {
+    public double conditional(double aIntersectB,double perB){
+        
+        double finalRes=aIntersectB/perB;
+        return finalRes;
+    }
+    public double bayes(double aGiveB,double aGiveNotB,double perB,double perNotB ){
+        double numerator=aGiveB*perB;
+        double denom=numerator+(aGiveNotB*perNotB);
+        double finalRes=numerator/denom;
+        return finalRes;
+    }
+    public boolean indepndent(double aIntersectB,double perA,double perB){
+        if (aIntersectB==perA*perB){
+            return true;
+        }
+        else{
+            return false;
+        }
+    }
     
     public double binoDistri(int nNumTrials,int yNumSuc,double pSucP,double qFailP ){
         //(n choose y)*p^y*q^(n-y)
