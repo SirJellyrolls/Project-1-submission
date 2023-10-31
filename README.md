@@ -2,9 +2,11 @@
 The following submissons can be found in the following areas
 
 basicStats/SetOperations:
+
 -Set Theory: Union Intersection Compliment
 
-basicStats/StatsFormulas
+basicStats/StatsFormulas:
+
 -Binomial
 -Geometric
 -Hyper Geometric
@@ -15,22 +17,27 @@ basicStats/StatsFormulas
 -Combinations
 -Factorial (Use Big Integer)
 
-basicStats/StatsLibrary
+basicStats/StatsLibrary:
+
 -Mean Median Mode
 -Standard Deviation / Variance
 -Conditional and Bayes
 -Determining Independance
 
-MonteHall
+MonteHall:
+
 -Monte's 3 Doors / Deal or No Deal Program
 
-birhdayProbability
+birhdayProbability:
+
 -Birthday Checker
 
-CarCSV 
+CarCSV:
+
 -CarFactory//Extra credit attempt using runtime to launch excel
 
-Hand
+Hand:
+
 -Hands
 
 
