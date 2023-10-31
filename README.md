@@ -40,6 +40,7 @@ Hand:
 
 -Hands
 
+Note:There is no github paper becuase you said if we already did the paper we don't need to write it again, however i did include a screen shot of me working with someone elses repo
 
 About Extra Credit Attempt:
 For an extra credit attempt added a method to to the CarCSV assignment section where excel launches after writing all files for the assignment. 
