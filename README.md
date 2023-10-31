@@ -1,7 +1,7 @@
 # Project-1-submission
 The following submissons can be found in the following areas
 
-basicStats/SetOperations
+basicStats/SetOperations:
 -Set Theory: Union Intersection Compliment
 
 basicStats/StatsFormulas
