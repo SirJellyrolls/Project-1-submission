@@ -19,7 +19,7 @@ basicStats/StatsLibrary
 -Mean Median Mode
 -Standard Deviation / Variance
 -Conditional and Bayes
-- Determining Independance
+-Determining Independance
 
 MonteHall
 -Monte's 3 Doors / Deal or No Deal Program
